@@ -1,0 +1,15 @@
+/**
+ * Registers the custom IcoMoon font.
+ */
+@font-face {
+	font-family:  icomoon;
+	font-weight:  normal;
+	font-style:   normal;
+	font-display: block;
+	src:          url("_icomoon.ttf");
+}
+
+/**
+ * Import icomoon.css file from the assets.
+ */
+@import "assets/fonts/icomoon/icomoon";
